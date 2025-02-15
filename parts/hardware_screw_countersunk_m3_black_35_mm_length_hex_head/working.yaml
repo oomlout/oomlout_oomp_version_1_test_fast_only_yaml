@@ -1,68 +1,9 @@
-bip_39_word_dash_1: abstract
-bip_39_word_dash_10: abstract-physical-mean-short-gesture-fetch-shadow-know-slot-come
-bip_39_word_dash_11: abstract-physical-mean-short-gesture-fetch-shadow-know-slot-come-rigid
 bip_39_word_dash_12: abstract-physical-mean-short-gesture-fetch-shadow-know-slot-come-rigid-acquire
 bip_39_word_dash_2: abstract-physical
 bip_39_word_dash_3: abstract-physical-mean
-bip_39_word_dash_4: abstract-physical-mean-short
-bip_39_word_dash_5: abstract-physical-mean-short-gesture
-bip_39_word_dash_6: abstract-physical-mean-short-gesture-fetch
-bip_39_word_dash_7: abstract-physical-mean-short-gesture-fetch-shadow
-bip_39_word_dash_8: abstract-physical-mean-short-gesture-fetch-shadow-know
-bip_39_word_dash_9: abstract-physical-mean-short-gesture-fetch-shadow-know-slot
-bip_39_word_new_br_1: abstract
-bip_39_word_new_br_10: abstract<br>physical<br>mean<br>short<br>gesture<br>fetch<br>shadow<br>know<br>slot<br>come
-bip_39_word_new_br_11: abstract<br>physical<br>mean<br>short<br>gesture<br>fetch<br>shadow<br>know<br>slot<br>come<br>rigid
 bip_39_word_new_br_12: abstract<br>physical<br>mean<br>short<br>gesture<br>fetch<br>shadow<br>know<br>slot<br>come<br>rigid<br>acquire
 bip_39_word_new_br_2: abstract<br>physical
 bip_39_word_new_br_3: abstract<br>physical<br>mean
-bip_39_word_new_br_4: abstract<br>physical<br>mean<br>short
-bip_39_word_new_br_5: abstract<br>physical<br>mean<br>short<br>gesture
-bip_39_word_new_br_6: abstract<br>physical<br>mean<br>short<br>gesture<br>fetch
-bip_39_word_new_br_7: abstract<br>physical<br>mean<br>short<br>gesture<br>fetch<br>shadow
-bip_39_word_new_br_8: abstract<br>physical<br>mean<br>short<br>gesture<br>fetch<br>shadow<br>know
-bip_39_word_new_br_9: abstract<br>physical<br>mean<br>short<br>gesture<br>fetch<br>shadow<br>know<br>slot
-bip_39_word_new_line_1: abstract
-bip_39_word_new_line_10: 'abstract
-
-  physical
-
-  mean
-
-  short
-
-  gesture
-
-  fetch
-
-  shadow
-
-  know
-
-  slot
-
-  come'
-bip_39_word_new_line_11: 'abstract
-
-  physical
-
-  mean
-
-  short
-
-  gesture
-
-  fetch
-
-  shadow
-
-  know
-
-  slot
-
-  come
-
-  rigid'
 bip_39_word_new_line_12: 'abstract
 
   physical
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'abstract
   physical
 
   mean'
-bip_39_word_new_line_4: 'abstract
-
-  physical
-
-  mean
-
-  short'
-bip_39_word_new_line_5: 'abstract
-
-  physical
-
-  mean
-
-  short
-
-  gesture'
-bip_39_word_new_line_6: 'abstract
-
-  physical
-
-  mean
-
-  short
-
-  gesture
-
-  fetch'
-bip_39_word_new_line_7: 'abstract
-
-  physical
-
-  mean
-
-  short
-
-  gesture
-
-  fetch
-
-  shadow'
-bip_39_word_new_line_8: 'abstract
-
-  physical
-
-  mean
-
-  short
-
-  gesture
-
-  fetch
-
-  shadow
-
-  know'
-bip_39_word_new_line_9: 'abstract
-
-  physical
-
-  mean
-
-  short
-
-  gesture
-
-  fetch
-
-  shadow
-
-  know
-
-  slot'
-bip_39_word_no_space_1: abstract
-bip_39_word_no_space_10: abstractphysicalmeanshortgesturefetchshadowknowslotcome
-bip_39_word_no_space_11: abstractphysicalmeanshortgesturefetchshadowknowslotcomerigid
 bip_39_word_no_space_12: abstractphysicalmeanshortgesturefetchshadowknowslotcomerigidacquire
 bip_39_word_no_space_2: abstractphysical
 bip_39_word_no_space_3: abstractphysicalmean
-bip_39_word_no_space_4: abstractphysicalmeanshort
-bip_39_word_no_space_5: abstractphysicalmeanshortgesture
-bip_39_word_no_space_6: abstractphysicalmeanshortgesturefetch
-bip_39_word_no_space_7: abstractphysicalmeanshortgesturefetchshadow
-bip_39_word_no_space_8: abstractphysicalmeanshortgesturefetchshadowknow
-bip_39_word_no_space_9: abstractphysicalmeanshortgesturefetchshadowknowslot
-bip_39_word_space_0:
-- abstract
-- physical
-- mean
-- short
-- gesture
-- fetch
-- shadow
-- know
-- slot
-- come
-- rigid
-- acquire
-bip_39_word_space_1: abstract
-bip_39_word_space_10: abstract physical mean short gesture fetch shadow know slot
-  come
-bip_39_word_space_11: abstract physical mean short gesture fetch shadow know slot
-  come rigid
 bip_39_word_space_12: abstract physical mean short gesture fetch shadow know slot
   come rigid acquire
 bip_39_word_space_2: abstract physical
 bip_39_word_space_3: abstract physical mean
-bip_39_word_space_4: abstract physical mean short
-bip_39_word_space_5: abstract physical mean short gesture
-bip_39_word_space_6: abstract physical mean short gesture fetch
-bip_39_word_space_7: abstract physical mean short gesture fetch shadow
-bip_39_word_space_8: abstract physical mean short gesture fetch shadow know
-bip_39_word_space_9: abstract physical mean short gesture fetch shadow know slot
-bip_39_word_underscore_1: abstract
-bip_39_word_underscore_10: abstract_physical_mean_short_gesture_fetch_shadow_know_slot_come
-bip_39_word_underscore_11: abstract_physical_mean_short_gesture_fetch_shadow_know_slot_come_rigid
 bip_39_word_underscore_12: abstract_physical_mean_short_gesture_fetch_shadow_know_slot_come_rigid_acquire
 bip_39_word_underscore_2: abstract_physical
 bip_39_word_underscore_3: abstract_physical_mean
-bip_39_word_underscore_4: abstract_physical_mean_short
-bip_39_word_underscore_5: abstract_physical_mean_short_gesture
-bip_39_word_underscore_6: abstract_physical_mean_short_gesture_fetch
-bip_39_word_underscore_7: abstract_physical_mean_short_gesture_fetch_shadow
-bip_39_word_underscore_8: abstract_physical_mean_short_gesture_fetch_shadow_know
-bip_39_word_underscore_9: abstract_physical_mean_short_gesture_fetch_shadow_know_slot
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
