@@ -480,6 +480,7 @@ price_200_distributor_accu: '0.12'
 price_200_distributor_orbital_fasteners: '0.0646'
 price_2_name: accu
 price_3_name: amazon
+price_4_name: aliexpress
 price_current: '0.0646'
 quantity_current: '200'
 short_code: cs3b35h

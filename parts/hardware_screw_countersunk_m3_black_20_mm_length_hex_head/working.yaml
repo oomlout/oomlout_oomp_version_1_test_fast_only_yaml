@@ -486,6 +486,7 @@ price_200_distributor_accu: '0.04'
 price_200_distributor_orbital_fasteners: '0.023'
 price_2_name: accu
 price_3_name: amazon
+price_4_name: aliexpress
 price_current: '0.023'
 project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth: '25'
 project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '50'
